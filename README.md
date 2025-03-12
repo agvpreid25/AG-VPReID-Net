@@ -21,7 +21,7 @@
 
 AG-VPReID is a comprehensive benchmark dataset for aerial-ground video-based person re-identification, offering unprecedented scale and diversity with footage from drones (15-120m altitude), CCTV cameras, and wearable devices.
 
-[arXiv](https://arxiv.org/abs/2503.08121) | [paper](#) | [dataset](#)
+[arXiv](https://arxiv.org/abs/2503.08121) | [paper](#) | [dataset](https://drive.google.com/drive/folders/1wtdhKzK9Fbj7xkGAM84KNJ1uYCxSMHdj?usp=sharing)
 </div>
 
 ## Key Features
@@ -61,7 +61,7 @@ We propose AG-VPReID-Net, a three-stream architecture specifically designed for 
 
 ## Dataset Access
 
-The AG-VPReID dataset will be publicly available. Please visit our [project website](#) for details on access procedures and license terms.
+The AG-VPReID dataset is available at [Download Link](https://drive.google.com/drive/folders/1wtdhKzK9Fbj7xkGAM84KNJ1uYCxSMHdj?usp=sharing).
 
 ## Citation
 
